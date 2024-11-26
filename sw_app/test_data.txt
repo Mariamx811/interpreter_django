@@ -1,0 +1,3 @@
+{"asset_id":"12","attribute_id":"1","timestamp":"2022-07-31T23:28:37Z[UTC]","value":"3"}
+{"asset_id":"123","attribute_id":"1","timestamp":"2022-07-31T23:28:37Z[UTC]","value":"012"}
+{"asset_id":"10","attribute_id":"1","timestamp":"2022-07-31T23:28:37Z[UTC]","value":"22"}

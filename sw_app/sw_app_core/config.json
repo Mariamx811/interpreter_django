@@ -1,0 +1,5 @@
+
+{ "name": "eq1",
+"expression": "(ATTR + 2) * 3",
+"description": "plus 2 and * 3"
+}
